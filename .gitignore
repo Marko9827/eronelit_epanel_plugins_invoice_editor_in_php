@@ -15,6 +15,10 @@ public/hot
 public_html/storage
 public_html/hot
 
+*.html
+*.build
+/.eronelitsdk
+
 storage/*.key
 .env
 Homestead.yaml
